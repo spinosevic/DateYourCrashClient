@@ -13,7 +13,7 @@ card2.classsName="card-2"
 card2.appendChild(card)
 card.innerHTML = `
 <img src="https://res.cloudinary.com/dpymfekpd/image/upload/v1551473499/pin_photo62522.jpg" id="img-preview" />
-<label class="file-upload-container" for="file-upload">
+<label class="file-upload-containers" for="file-upload">
   <input id="file-upload" type="file" style="display:none;">
   Select an Image
 </label>
